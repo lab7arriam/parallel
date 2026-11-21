@@ -1,2 +1,5 @@
 # parallel
-The repository with official source code of the parallel utility
+The repository with the official source code of the parallel utility
+
+Taken from:
+https://www.gnu.org/software/parallel/
